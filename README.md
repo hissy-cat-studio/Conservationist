@@ -1,4 +1,4 @@
 # Conservationist
-The game of saving animals, building Sancuarities and wildlife Preserves
+The game of saving Animals, building Sancuarities and Wildlife Preserves
 
 
